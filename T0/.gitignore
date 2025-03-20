@@ -1,0 +1,17 @@
+/bin
+/tests
+/obj
+__pycache__/
+.py[co]
+/.ccls-cache/
+
+# direnv folder
+/.direnv/
+
+# other
+output.txt
+.edd-cache
+T0
+diff_output.txt
+# compiled
+/puffle
